@@ -1,7 +1,6 @@
 <h1 align="center">Hi!👋 I'm Muhammad Arfa Raditya</h1>
 
 
----
 ## 💫 About Me:
 I'm an IT enthusiast who loves learning and exploring new technologies.
 Besides coding, I enjoy playing games in my spare time to relax and have fun.
